@@ -19,6 +19,7 @@ The example data for running the code is stored in the datafile.mat.
 We recommend installing relevant dependencies in a virtual environment of the Anaconda. If so, you could create a virtual environment by running the following code in the command line of Anaconda Prompt:
 ```
 conda create -n your_env_name python=3.7.6
+conda activate your_env_name
 ```
 Then you can finish the installation by the following code. If you didn't install the git, you can also directly download the code in the link: https://github.com/rocket1ab/Source-reconstruction-of-non-constant-atmospheric-radionuclide-releases 
 ```
